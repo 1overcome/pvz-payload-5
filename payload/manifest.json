@@ -1,0 +1,73 @@
+{
+  "files": {
+    "pvz-lan.zip": {
+      "size": 226325813,
+      "sha256": "4e1a7011308b61ce80813f3638d210e6cdb0523cc95c5302093993dab3909966",
+      "chunkSize": 4194304,
+      "parts": [
+        "pvz-lan.zip.part000",
+        "pvz-lan.zip.part001",
+        "pvz-lan.zip.part002",
+        "pvz-lan.zip.part003",
+        "pvz-lan.zip.part004",
+        "pvz-lan.zip.part005",
+        "pvz-lan.zip.part006",
+        "pvz-lan.zip.part007",
+        "pvz-lan.zip.part008",
+        "pvz-lan.zip.part009",
+        "pvz-lan.zip.part010",
+        "pvz-lan.zip.part011",
+        "pvz-lan.zip.part012",
+        "pvz-lan.zip.part013",
+        "pvz-lan.zip.part014",
+        "pvz-lan.zip.part015",
+        "pvz-lan.zip.part016",
+        "pvz-lan.zip.part017",
+        "pvz-lan.zip.part018",
+        "pvz-lan.zip.part019",
+        "pvz-lan.zip.part020",
+        "pvz-lan.zip.part021",
+        "pvz-lan.zip.part022",
+        "pvz-lan.zip.part023",
+        "pvz-lan.zip.part024",
+        "pvz-lan.zip.part025",
+        "pvz-lan.zip.part026",
+        "pvz-lan.zip.part027",
+        "pvz-lan.zip.part028",
+        "pvz-lan.zip.part029",
+        "pvz-lan.zip.part030",
+        "pvz-lan.zip.part031",
+        "pvz-lan.zip.part032",
+        "pvz-lan.zip.part033",
+        "pvz-lan.zip.part034",
+        "pvz-lan.zip.part035",
+        "pvz-lan.zip.part036",
+        "pvz-lan.zip.part037",
+        "pvz-lan.zip.part038",
+        "pvz-lan.zip.part039",
+        "pvz-lan.zip.part040",
+        "pvz-lan.zip.part041",
+        "pvz-lan.zip.part042",
+        "pvz-lan.zip.part043",
+        "pvz-lan.zip.part044",
+        "pvz-lan.zip.part045",
+        "pvz-lan.zip.part046",
+        "pvz-lan.zip.part047",
+        "pvz-lan.zip.part048",
+        "pvz-lan.zip.part049",
+        "pvz-lan.zip.part050",
+        "pvz-lan.zip.part051",
+        "pvz-lan.zip.part052",
+        "pvz-lan.zip.part053"
+      ]
+    }
+  },
+  "mirrors": [
+    {
+      "name": "jsdelivr",
+      "base": "https://cdn.jsdelivr.net/gh/1overcome/pvz-payload@main",
+      "browser": true,
+      "note": "GitHub 仓库经 jsDelivr CDN 加速（国内实测 290–340 KB/s/连接），与本站在不同链路上，并行可叠加"
+    }
+  ]
+}
